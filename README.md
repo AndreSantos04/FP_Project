@@ -1,5 +1,5 @@
 # FP_Project
-Programming Fundamentals Projects
+Programming Fundamentals Projects (Y1 S1)
 
 The first one consists in 3 different exercises: 
   *   Justify the lines of a text
